@@ -2,6 +2,8 @@
 
 React Boundary Lab is a professional interactive learning app that teaches developers why React performance problems often begin with unclear component boundaries, not missing memoization.
 
+GitHub: https://github.com/masaud155/react-boundary-lab
+
 ## Features
 
 - Dark mode developer education dashboard
